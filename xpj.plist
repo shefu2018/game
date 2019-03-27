@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cdn.3c3o5l.cn/app/xpj.ipa</string>
+					<string>http://mycdn.zkhyebhyy.com/app/xpj.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://cdn.3c3o5l.cn/static/home4.0/img/logo_xpj.png</string>
+					<string>http://mycdn.zkhyebhyy.com/static/home4.0/img/logo_xpj.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://cdn.3c3o5l.cn/static/home4.0/img/logo_xpj.png</string>
+					<string>http://mycdn.zkhyebhyy.com/static/home4.0/img/logo_xpj.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wz.shgj</string>
+				<string>com.wz.xpj</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>盛和国际</string>
+				<string>澳门新葡京</string>
 			</dict>
 		</dict>
 	</array>
