@@ -29,7 +29,7 @@
 			< key >元数据</ key >
 			< dict >
 				< key > bundle-identifier </ key >
-				< string > com.wz.wnsr2 </ string >
+				< string > com.wz.hfgj </ string >
 				< key > bundle-version </ key >
 				< string > 1.0.0 </ string >
 				< key > kind </ key >
